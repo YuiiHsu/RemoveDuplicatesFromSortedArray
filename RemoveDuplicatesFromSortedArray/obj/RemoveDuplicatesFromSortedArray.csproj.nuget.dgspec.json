@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Practice\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\新增資料夾\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {}
   },
   "projects": {
-    "D:\\Practice\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\新增資料夾\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Practice\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\新增資料夾\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
         "projectName": "RemoveDuplicatesFromSortedArray",
-        "projectPath": "D:\\Practice\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\新增資料夾\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Practice\\LeetCode\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\新增資料夾\\RemoveDuplicatesFromSortedArray\\RemoveDuplicatesFromSortedArray\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
